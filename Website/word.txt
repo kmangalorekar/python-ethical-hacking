@@ -1,0 +1,9 @@
+mail
+www
+admin
+blog
+accounts
+plus
+news
+images
+ads
